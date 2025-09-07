@@ -19,7 +19,7 @@ A passionate developer from West Bengal, India.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgresql,c,cpp,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,nodejs,express,react,mongodb,postgresql,c,cpp,git,vscode,vim" />
   </a>
 </p>
 
