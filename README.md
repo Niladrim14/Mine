@@ -33,9 +33,6 @@ A passionate developer from West Bengal, India.
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niladrim14&layout=compact&theme=tokyonight&hide_border=true" alt="Niladri's Top Languages" />
-</p>
 
 <p align="center">
   <a href="https://github.com/jstrieb/github-stats">
