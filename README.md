@@ -3,7 +3,7 @@
 A passionate developer from West Bengal, India.
 
 - 🌱 I’m currently learning **MERN STACK**.
-- 🔭 I’m currently working on building scalable backend services.
+- 🔭 Currently working on building scalable backend services.
 - 📫 How to reach me: **niladrim004@gmail.com**
 
 <br/>
