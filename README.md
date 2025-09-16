@@ -34,8 +34,3 @@ A passionate developer from West Bengal, India.
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/jstrieb/github-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niladrim14&theme=tokyonight&hide_border=true" alt="Niladri's GitHub Streak" />
-  </a>
-</p>
