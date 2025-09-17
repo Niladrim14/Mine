@@ -27,10 +27,7 @@ A passionate developer from West Bengal, India.
 
 ## My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niladrim14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Niladri's GitHub Stats" />
-  </a>
-</p>
+
+
 
 
