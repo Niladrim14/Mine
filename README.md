@@ -34,13 +34,7 @@ A full-stack developer from West Bengal, India, with a passion for turning compl
 
 <br>
 
-### 📊 My GitHub Activity
 
-<p align="center">
-  <img src="https://github.com/Niladrim14/Niladrim14/blob/main/profile-3d.png" alt="Niladri's GitHub Activity Graph"/>
-</p>
-
-<br>
 
 ### 🔗 Connect with Me
 
